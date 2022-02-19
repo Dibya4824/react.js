@@ -57,7 +57,7 @@ export default class SignUp extends Component {
                       type="text"
                       className="form-control"
                       placeholder="First Name *"
-                      value=""
+                      
                     />
                   </div>
                   <div className="form-group">
@@ -65,7 +65,7 @@ export default class SignUp extends Component {
                       type="text"
                       className="form-control"
                       placeholder="Last Name *"
-                      value=""
+                      
                     />
                   </div>
                   <div className="form-group">
@@ -73,7 +73,7 @@ export default class SignUp extends Component {
                       type="email"
                       className="form-control"
                       placeholder="Email *"
-                      value=""
+                     
                     />
                   </div>
                   <div className="form-group">
@@ -83,7 +83,7 @@ export default class SignUp extends Component {
                       minlength="10"
                       className="form-control"
                       placeholder="Phone *"
-                      value=""
+                      
                     />
                   </div>
                 </div>
@@ -93,7 +93,7 @@ export default class SignUp extends Component {
                       type="password"
                       className="form-control"
                       placeholder="Password *"
-                      value=""
+                      
                     />
                   </div>
                   <div className="form-group">
@@ -101,7 +101,7 @@ export default class SignUp extends Component {
                       type="password"
                       className="form-control"
                       placeholder="Confirm Password *"
-                      value=""
+                      
                     />
                   </div>
                   <div className="float-right">
